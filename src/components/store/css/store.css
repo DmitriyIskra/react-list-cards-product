@@ -9,6 +9,14 @@
   list-style-type: none;
 }
 
-ol, ul {
+ol,
+ul {
   padding: 0 !important;
+}
+
+.wrapper-store {
+  width: 80%;
+  min-height: 1000px;
+  margin: 120px auto 0;
+  padding-bottom: 40px;
 }

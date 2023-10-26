@@ -1,0 +1,30 @@
+
+
+.wrapperIcon {
+    display: flex;
+    height: 25 px;
+
+    justify-content: flex-end;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+
+    cursor: pointer;
+}
+
+.view_list {
+    background: no-repeat url(../img/view_list.png);
+    background-size: contain;
+    background-position: center;
+}
+
+.view_module {
+    background: no-repeat url(../img/view_module.png);
+    background-size: contain;
+    background-position: center;
+}
+
+
+
